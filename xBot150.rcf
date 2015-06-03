@@ -1,0 +1,10 @@
+[filament]
+name = xBot150
+diameter = 2.95
+multiplierPercent = 100
+printingTemperature = 220
+enableCooling = True
+bedTemperature = 60
+fanSpeedMin = 50
+fanSpeedMax = 80
+minimalLayerTime = 8
