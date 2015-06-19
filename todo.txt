@@ -1,0 +1,3 @@
+Nozzel size Manuel =  0.35 != Nozzel.ist= 0.5
+LCD_menue für dualhotend
+
